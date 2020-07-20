@@ -16,7 +16,7 @@ git clone $REPOSITORY --bare ChangePreviousAuthor-temp --quiet
 
 # Go to the repository in question.
 cd ChangePreviousAuthor-temp
-git log
+#git log
 
 # Replacing all changes.
 echo "\n\nReplacing all emails.\n"
